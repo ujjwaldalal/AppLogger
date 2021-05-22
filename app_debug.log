@@ -1,0 +1,8 @@
+2021-05-20 05:47:49,690 - AppLogger - DEBUG - Calling module function.
+2021-05-20 05:51:02,058 - AppLogger.mymodule.module - DEBUG - Here as well paaji
+2021-05-20 05:51:02,058 - AppLogger - DEBUG - Calling module function.
+2021-05-20 05:51:02,058 - AppLogger.mymodule.module - DEBUG - Greeting people.
+2021-05-20 05:51:02,058 - AppLogger - DEBUG - Finished
+2021-05-20 05:53:04,547 - AppLogger - DEBUG - Calling module function.
+2021-05-20 05:53:04,548 - AppLogger.mymodule.module - DEBUG - Greeting people.
+2021-05-20 05:53:04,548 - AppLogger - DEBUG - Finished
